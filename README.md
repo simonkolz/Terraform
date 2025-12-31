@@ -1,4 +1,4 @@
-## WordPress Deployment on AWS with Terraform & User-Data Script
+## WordPress Deployment on AWS with Terraform(Modules) & User-Data Script
 
 This project was built for learning purposes, with the goal of understanding Terraform structure, modules, variables, and how to automate a full WordPress deployment on AWS.
 
@@ -117,3 +117,4 @@ When the apply is complete, open the EC2 instance’s Public IPv4 address in you
 To remove all resources run:
 
 ``terraform destroy``
+
